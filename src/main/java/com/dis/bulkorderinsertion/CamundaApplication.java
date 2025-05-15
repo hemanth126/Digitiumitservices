@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CamundaApplication {
 
   public static void main(String... args) {
+    System.out.print("lksrdlkgflsdkfgklsdfl");
     SpringApplication.run(CamundaApplication.class, args);
   }
 
